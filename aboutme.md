@@ -4,13 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Eric Mannon. I am a technical product manager at one of the leading MXDR MSSP's and focus exclusively on Microsoft products and services. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+As Cloud Security Architect & Microsoft Certified Trainer, I specialize in the technical enablement of other infosec pros that are new to fabric and trying to operationalize existing investments, optimize security posture, and extract security outcomes. 
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
