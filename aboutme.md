@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
 My name is Eric Mannon. I am a technical product manager at one of the leading MXDR MSSP's and focus exclusively on Microsoft products and services. 
