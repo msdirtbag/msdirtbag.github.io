@@ -3,8 +3,6 @@ layout: post
 title: Don't Forget Microsoft Defender for Cloud Apps
 subtitle: The Uniquely Integrated Cloud Access Security Broker
 cover-img: /assets/img/mda.png
-thumbnail-img: /assets/img/mda.png
-share-img: /assets/img/mda.png
 tags: [books, test]
 ---
 
@@ -27,11 +25,11 @@ Example: Perhaps you have done some sampling and determined the Sentinel data co
 👮‍♂️Governance: Conditional Access (&App Control) + User/Signin Risk Policies + MDA File/Activity/Access Policies
 
 Tips:
--Be sure to add all noteworthy Corporate/Risky/VPN/Cloud/Admin IP’s to IP Address Ranges in MDA.
--Don’t forget to backup your MDA collector configs with WinSCP
--Connect every applicable MDA API integration that MDA offers
--Start learning CloudAppEvents in Advanced Hunting
--Conditional Access App Control Monitor-only policies are perfect starting points
+Be sure to add all noteworthy Corporate/Risky/VPN/Cloud/Admin IP’s to IP Address Ranges in MDA.
+Don’t forget to backup your MDA collector configs with WinSCP.
+Connect every applicable MDA API integration that MDA offers.
+Start learning CloudAppEvents in Advanced Hunting.
+Conditional Access App Control Monitor-only policies are perfect starting points.
 
 🎒Resources:
 MDA Log Collectors: https://learn.microsoft.com/en-us/defender-cloud-apps/discovery-docker-ubuntu?tabs=centos
