@@ -2,9 +2,9 @@
 layout: post
 title: Don't Forget Microsoft Defender for Cloud Apps
 subtitle: The Uniquely Integrated Cloud Access Security Broker
-cover-img: /assets/img/mda.jpg
-thumbnail-img: /assets/img/mda.jpg
-share-img: /assets/img/mda.jpg
+cover-img: /assets/img/mda.png
+thumbnail-img: /assets/img/mda.png
+share-img: /assets/img/mda.png
 tags: [books, test]
 ---
 
