@@ -22,9 +22,8 @@ author: Eric Mannon
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - MS Portals: "http://msportals.io/"
+    - AZ Policy Advertizer: "https://www.azadvertizer.net/"
 
 ################
 # --- Logo --- #
