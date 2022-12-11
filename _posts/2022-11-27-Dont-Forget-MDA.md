@@ -5,8 +5,6 @@ thumbnail-img: ./assets/img/mda.jfif
 ---
 Microsoft Defender for Cloud Apps is not an agent-based Cloud Access Security Broker like ProofPoint or Netskope. It’s an IAM-based CASB so it does not require agents, but it does require the apps be configured for Azure AD SSO for full CASB functionality.
 
-![Image](/assets/img/mda.jfif)
-
 😢Unfortunately, application modernization can seem like a daunting initiative for many orgs so MDA often becomes the forgotten Defender. It’s important to mention that most modern SaaS & on-prem apps support AAD SSO and the apps that cannot support SAML, OpenID, or Kerberos may already be on your decom list.
 
 👉Whether you already have the majority of your enterprise apps connected to Azure AD or are just beginning your application modernization journey, do not forget about MDA!
@@ -29,6 +27,8 @@ Don’t forget to backup your MDA collector configs with WinSCP.
 Connect every applicable MDA API integration that MDA offers.
 Start learning CloudAppEvents in Advanced Hunting.
 Conditional Access App Control Monitor-only policies are perfect starting points.
+
+![Image](/assets/img/mda.jfif)
 
 🎒Resources:
 
