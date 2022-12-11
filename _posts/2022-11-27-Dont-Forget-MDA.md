@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Forget Microsoft Defender for Cloud Apps
+title: Don't forget about Defender for Cloud Apps!
 thumbnail-img: ./assets/img/mda.jfif
 ---
 Microsoft Defender for Cloud Apps is not an agent-based Cloud Access Security Broker like ProofPoint or Netskope. It’s an IAM-based CASB so it does not require agents, but it does require the apps be configured for Azure AD SSO for full CASB functionality.
