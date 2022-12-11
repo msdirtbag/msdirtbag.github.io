@@ -14,6 +14,7 @@ If it looks like the ARM template on the left, it is Arc compatible and needs a 
 ![Image](/assets/img/arcazpolicy.jfif)
 
 🎒Resources:
+
 Azure Bicep: https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file
 
 Azure Policy: https://github.com/Azure/azure-policy/tree/master/built-in-policies/policyDefinitions

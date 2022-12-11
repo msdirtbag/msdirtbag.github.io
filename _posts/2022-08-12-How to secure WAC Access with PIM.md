@@ -3,7 +3,7 @@ layout: post
 title: How to secure WAC Access with PIM
 thumbnail-img: ./assets/img/wacpim.jfif
 ---
-🥷🏻How to secure Windows Admin Center access via Azure Arc:
+🥷🏻Windows Admin Center is powerful service that requires specific permissions to utilize. To manage this privilaged Windows Admin Center access, you should use Azure AD PIM to require Just-In-Time access and enforce special Condition Access rules. 
 
 1.     Create a custom role for WACAdmin on the subscription containing your Arc servers. (always use custom roles)
 2.     Create a role-assignable Security Group in Azure AD.
@@ -18,6 +18,7 @@ thumbnail-img: ./assets/img/wacpim.jfif
 ![Image](/assets/img/wacpim.jfif)
 
 🎒Resources:
+
 Privileged Access Groups- https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/groups-features
 
 WAC Roles- https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/azure/manage-arc-hybrid-machines#azure-permissions
