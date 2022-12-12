@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Defender Application Control
-thumbnail-img: ./assets/img/wdac.jfif
+thumbnail-img: ./assets/img/WDAC.jfif
 ---
 If we have MDE, should we deploy Windows Defender Application Control❓
 
@@ -42,7 +42,7 @@ Assign at least (2) WDAC system owners. They must learn everything about WDAC an
 
 🎯Desired state: “Zero Trust for unapproved code”
 
-![Image](/assets/img/automanage.jfif)
+![Image](/assets/img/WDAC.jfif)
 
 🎒Resources:
 
