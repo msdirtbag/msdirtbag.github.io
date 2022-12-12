@@ -6,7 +6,9 @@ My name is Eric Mannon. I am a technical product manager at one of the leading M
 
 As Cloud Security Architect & Microsoft Certified Trainer, I specialize in the technical enablement of other information security professionals that are new to Microsoft Security fabric and trying to operationalize existing investments, optimize security posture, and extract security outcomes. 
 
-![Image](/assets/img/avatar.jfif)
+Stay frosty!
+
+-Eric Mannon
 
 [LinkedIn](https://www.linkedin.com/in/emannon)
 
