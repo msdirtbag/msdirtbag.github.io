@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are you familiar with Azure Automanage
+title: Are you familiar with Azure Automanage?
 thumbnail-img: ./assets/img/automanage.jfif
 ---
 Azure Automanage is the policy management solution for Azure & non-Azure (Arc) Servers.

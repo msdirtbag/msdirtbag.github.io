@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How secure is your Azure AD MFA
+title: How secure is your Azure AD MFA?
 thumbnail-img: ./assets/img/GPSMFA.jfif
 ---
 Hopefully you have MFA enabled for every account in your Azure AD tenant. Did you know that you get require GPS reads via Conditional Access?

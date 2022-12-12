@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does your organization use any Microsoft Cloud Services
+title: Does your organization use any Microsoft Cloud Services?
 thumbnail-img: ./assets/img/aadkey.jfif
 ---
 ⚡️Here’s the (3) most important Azure AD security controls (beyond requiring MFA & Disabling Legacy Auth) that affect your organization’s IAM security posture.
