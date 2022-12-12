@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 365 Defender Data Connector for Sentinel
-thumbnail-img: ./assets/img/365data.jfif
+thumbnail-img: ./assets/img/365Data.jfif
 ---
 Q: Should we enable the 365 Defender Data Connector in Microsoft Sentinel?
 
@@ -31,17 +31,17 @@ DeviceNetworkEvents (with Zeek!)
 
 *Note: The AMA agent should still be installed on every server. It handles MDC logs and custom log ingest via Data Collection Rules.
 
-![Image](/assets/img/365data.jfif)
+![Image](/assets/img/365Data.jfif)
 
 🎒Resources:
 
-365D Data Connector: https://lnkd.in/gsJUhPsy
+365D Data Connector: https://learn.microsoft.com/en-us/azure/sentinel/connect-microsoft-365-defender?tabs=MDE
 
-ATT&CK Data Sources: https://lnkd.in/gJHQ_tcP
+ATT&CK Data Sources: https://attack.mitre.org/datasources/
 
-Example of DeviceProcess: https://lnkd.in/g-RQFi4q
+Example of DeviceProcess: https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-find-ransomware?view=o365-worldwide#check-for-multiple-signs-of-ransomware-activity
 
-Understanding Data Sources: https://lnkd.in/grYauWfh
+Understanding Data Sources: https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f
 
 
 
