@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Defender for Endpoint Restrict App Execution
-thumbnail-img: ./assets/img/mderse.jfif
+thumbnail-img: ./assets/img/mderae.jfif
 ---
 👉Let’s discuss Defender for Endpoint’s Restrict App Execution Response Action:
 
@@ -19,7 +19,7 @@ This code integrity policy is very similar to WDAC Microsoft Only policy that ca
 
 There is tons of great use-cases for Restrict App Execution so go experiment and share your favorites!
 
-![Image](/assets/img/mderse.jfif)
+![Image](/assets/img/mderae.jfif)
 
 🎒Resources:
 

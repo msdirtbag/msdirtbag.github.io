@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Monitoring Agent End-of-Life
-thumbnail-img: ./assets/img/mmaeol.jfif
+thumbnail-img: ./assets/img/mmaeolplan.jfif
 ---
 Does your organization use the Microsoft Monitoring Agent❓
 
@@ -23,7 +23,7 @@ You need to ask your Microsoft Rep to check if you are eligible for a “Secure 
 
 As the Forrester Total Economic Impact study reports, there are significant economic, security, and governance reasons to evaluate the Azure Arc/AMA solution but technical POC’s are the best way to craft realistic expectations and plan your transition.
 
-![Image](/assets/img/mmaeol.jfif)
+![Image](/assets/img/mmaeolplan.jfif)
 
 🎒Resources:
 

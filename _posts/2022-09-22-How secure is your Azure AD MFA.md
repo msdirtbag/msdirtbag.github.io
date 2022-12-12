@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How secure is your Azure AD MFA
-thumbnail-img: ./assets/img/gpsmfa.jfif
+thumbnail-img: ./assets/img/GPSMFA.jfif
 ---
 Hopefully you have MFA enabled for every account in your Azure AD tenant. Did you know that you get require GPS reads via Conditional Access?
 
@@ -23,7 +23,7 @@ Fantastic! Let’s discuss a security control included in AAD P1 & P2 licensing 
 
 💡Most malicious threat actors do not want to dox themselves by giving up the exact GPS location of where they are actually working from. (bad opsec😉)
 
-![Image](/assets/img/gpsmfa.jfif)
+![Image](/assets/img/GPSMFA.jfif)
 
 🎒Resources:
 
