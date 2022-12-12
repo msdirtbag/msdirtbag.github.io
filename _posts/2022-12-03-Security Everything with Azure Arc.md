@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Secure Everything with Azure Arc
-thumbnail-img: ./assets/img/arcecurity.jfif
+thumbnail-img: ./assets/img/arcsecurity.jfif
 ---
 “As a security pro, I understand EDR & SIEM. I don’t understand what Arc/Defender for Cloud is and why we need to use it”
 
