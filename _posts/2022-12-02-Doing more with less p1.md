@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing more with less
+title: Doing more with less P1
 thumbnail-img: ./assets/img/honeytoken.jfif
 ---
 👉Doing more with less:
