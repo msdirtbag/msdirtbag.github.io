@@ -3,8 +3,6 @@ layout: post
 title: Azure Arc Rapid Onboarding
 thumbnail-img: ./assets/img/ArcOnboard.jfif
 ---
-“What is the best way to onboard servers to Defender for Cloud with Azure Arc⁉️”
-
 Deploying the Azure Connected Machine agent can be accomplished via many methods. In reality, it’s just pushing an MSI installer & (1) PowerShell registration command on Windows and very similar on Linux distributions. It can be delivered via current management frameworks such as ConfigMgr, GPO, Chef, & Ansible.
 
 👉Most important detail: Set up your Azure Arc landing zone before you onboard anything. Build out your Management Groups, Subscriptions, Resource Groups and Azure Policy sets. Since billing is controlled at Subscription level, make sure to create separate subscriptions for business units that need to bill individually.

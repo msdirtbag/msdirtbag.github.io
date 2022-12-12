@@ -24,8 +24,11 @@ Please share your thoughts and opinions! Anybody using both on the same server?
 ![Image](/assets/img/bas.jfif)
 
 🎒Resources:
+
 Bastion: https://learn.microsoft.com/en-us/azure/bastion/bastion-overview
+
 Bastion Client: https://learn.microsoft.com/en-us/azure/bastion/connect-native-client-windows
+
 MDC JIT: https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?tabs=defender-for-container-arch-aks
 
 

@@ -8,11 +8,17 @@ Who is using the Windows DNS Events via AMA Data Connector in Microsoft Sentinel
 Organizations can monitor DNS logs to better understand network activity, and to identify suspicious behavior or attacks targeting resources within the network. The Windows DNS Events via AMA Sentinel data connector provides this type of visibility.
 
 With the DNS Events connector, you can:
+
 ·       Identify clients that try to resolve malicious domain names.
+
 ·       View and monitor request loads on DNS servers.
+
 ·       View dynamic DNS registration failures. (Minimal security value and significant ingest cost)
+
 ·       Identify frequently queried domain names and talkative clients.
+
 ·       Identify stale resource records.
+
 ·       View all DNS related logs in one place.
 
 This connector is fully normalized using Advanced Security Information Model (ASIM) parsers. The connector streams events originated from the analytical logs into the normalized table named ASimDnsActivityLogs. This table acts as a translator, using one unified language, shared across all DNS connectors to come.

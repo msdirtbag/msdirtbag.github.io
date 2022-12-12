@@ -6,7 +6,9 @@ thumbnail-img: ./assets/img/GPSMFA.jfif
 Hopefully you have MFA enabled for every account in your Azure AD tenant. Did you know that you get require GPS reads via Conditional Access?
 
 ·       Is Authenticator number matching enabled?
+
 ·       Is SMS MFA disabled?
+
 ·       Is Legacy Auth disabled for every service & user?
 
 Fantastic! Let’s discuss a security control included in AAD P1 & P2 licensing that frustrates red-teamers and threat actors❗️

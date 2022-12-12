@@ -10,24 +10,43 @@ With the Windows Admin Center extension in Azure, you get the management, config
 Using Windows Admin Center in the Azure portal, you can manage:
 
 ✅Certificates
+
 ✅Devices
+
 ✅Events
+
 ✅Files and file sharing
+
 ✅Firewall
+
 ✅Installed apps
+
 ✅Local users and groups
+
 ✅Performance Monitor
+
 💰Full PowerShell
+
 🔥Processes Dumps
+
 🔥Packet Captures
+
 ✅Registry
+
 ✅Remote Desktop
+
 ✅Roles and Features
+
 ✅Scheduled tasks
+
 ✅Services
+
 ✅Storage
+
 ✅Updates
+
 ✅Hyper V Virtual machines
+
 ✅Virtual switches
 
 Notes:

@@ -16,6 +16,7 @@ By adding WAC to Windows Servers 2016-2022 with installed Azure Connected Machin
 ![Image](/assets/img/wacarc.jfif)
 
 🎒Resources:
+
 GitHub link to policy:https://github.com/msdirtbag/azurearc/blob/main/DeployWACArc.json
 
 Azure Arc and Windows Admin Center: https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/azure/manage-arc-hybrid-machines

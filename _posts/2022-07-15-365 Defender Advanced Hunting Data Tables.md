@@ -7,8 +7,11 @@ thumbnail-img: ./assets/img/365Data.jfif
 
 🔻The 365D Advanced Hunting value proposition:
 ·       It covers all endpoints enrolled in MDE (Not just Windows/Linux servers with MMA/AMA installed)
+
 ·       The fields are normalized across Windows/Linux/MacOS kernels
+
 ·       It is less dependent on AD Advanced Audit policy
+
 ·       It’s an XDR dataset vs EDR dataset so it includes IAM, CASB, Email & TVM as well
 
 Defender for Cloud Apps:

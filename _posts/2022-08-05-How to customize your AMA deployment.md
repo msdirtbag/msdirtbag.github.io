@@ -10,6 +10,7 @@ A: You deploy Azure Connected Machine agents and then Azure Policy deploys the A
 In an ideal world, Azure Monitor, Defender for Cloud, and Microsoft Sentinel use a shared Log Analytics Workspace but sometimes complex architectures are necessary to meet business requirements.
 
 ·       Performance logs go Azure Monitor and power VM Insights and hybrid Network Watcher.
+
 ·       Security logs are shared by Defender for Cloud and Sentinel and power the CNAPP and SIEM functionality.
 
 💡MDC auto-provisioning settings are just Azure Policy shortcuts. They create a DeployifNotExists Azure Policy Assignment, System Managed Identity, and Remediation task to deploy the relevant agents.

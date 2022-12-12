@@ -22,8 +22,11 @@ The organization has considered where application control can be most useful (fo
 Q&A:
 
 Should we use AppLocker as well?
+
 ·       No with rare exceptions
+
 What OS’s support WDAC?
+
 ·       Server 2016+ & Modern W10 builds+
 
 🔻Strategy to get started:
@@ -38,7 +41,9 @@ Assign at least (2) WDAC system owners. They must learn everything about WDAC an
 
 4th- Deploy a supplemental policy to block the Microsoft recommended block list
 
+
 🔑Golden rule: “Audit is better than nothing”
+
 
 🎯Desired state: “Zero Trust for unapproved code”
 

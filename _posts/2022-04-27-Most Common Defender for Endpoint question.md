@@ -11,10 +11,17 @@ With MDE, the solution is “baked into” the kernel and uses existing plumbing
 🚦These registry settings can be delivered via MDE Attach, ConfigMgr, Intune, PowerShell, Guest Configurations, and GPO. Each method has its own list of pros/cons/dependencies so the preferred solution varies on environmental variables.
 
 🦾Key lessons learned by purple teaming MDE & MDE IR engagements:
+
 ·       Tamper Protection must be enabled for all endpoints in production
+
 ·       Local Admin Merge must be disabled by policy
+
 ·       Out-of-the-box Advanced Audit Policy creates "blind spots"
+
 ·       Network Protection must be enabled in block mode
+
 ·       All ASR rules should be enabled in audit/block/warn mode on all endpoints
+
 ·       Defender Firewall should be enabled and auditing Filtering Platform Packet Drop & Filtering Platform Connection
+
 ·       UAC must auto-deny elevation requests to prevent rundll32/fodhelper EDR unhooking

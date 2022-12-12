@@ -8,15 +8,25 @@ thumbnail-img: ./assets/img/mdilearn.jfif
 🛑It’s important to understand that configuring an AD service account and installing the MDI sensor msi does not complete the deployment. If you stop there, your sensor will fail to detect malicious activity that it could because key installation steps were missed.
 
 📝Key things to consider when deploying MDI:
+
 ·       Advanced Audit Policy that meets MDI’s auditing requirements is critical
+
 ·       Disable LSO on VMware DC’s that show health alerts
+
 ·       Allowlist/bypass yourdomain.atp.azure.com TCP 443 traffic from SSL intercept/proxy
+
 ·       Make sure that communication isn't blocked for localhost, TCP port 444
+
 ·       MDI takes 30 days to baseline the environment for behavioral alerts (pictured)
+
 ·       Never use the same gMSA for the monitoring & action accounts
+
 ·       Make sure that SAM-R required permissions are configured for Lateral Movement Path detections
+
 ·       You do not need to purchase Npcap licenses
+
 ·       You can use the Azure service tag AzureAdvancedThreatProtection in NSG/Azure Firewall rules
+
 ·       The monitoring gMSA account must be granted the Log on as a service permission
 
 ![Image](/assets/img/mdilearn.jfif)

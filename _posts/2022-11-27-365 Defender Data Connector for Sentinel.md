@@ -18,16 +18,27 @@ Why⁉️
 You can use this high value dataset to transform your detection analytics program and focus on the invariant behaviors of sub-techniques that do not change regardless of procedural implementation. You can also archive these key datasets for legal and compliance requirements via Azure Data Explorer.
 
 My favorite unique 365D advanced hunting data types:
+
 AADSignInEventsBeta
+
 AADSpnSignInEventsBeta
+
 AlertEvidence
+
 CloudAppEvents
+
 UrlClickEvents
+
 IdentityLogonEvents
+
 IdentityQueryEvents
+
 IdentityDirectoryEvents
+
 DeviceLogonEvents
+
 DeviceNetworkEvents (with Zeek!)
+
 
 *Note: The AMA agent should still be installed on every server. It handles MDC logs and custom log ingest via Data Collection Rules.
 

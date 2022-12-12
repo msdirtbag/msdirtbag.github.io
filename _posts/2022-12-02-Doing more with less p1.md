@@ -20,15 +20,23 @@ What did they do?
 
 How can we apply this to cyberdefense in 2022/2023❓
 
-·       Assume all cybersecurity projects that include buying something are cancelled until summer of next year. Take a full inventory of all of the security tools and platforms that your org has today.
-·       Identify which ATT&CK data sources the current tools can provide.
-·       Identify unused/legacy storage that can be used for stopgap solutions
-·       Assign each platform to a Security Engineer and have them complete a deep dive investigation on how that deployment can be improved.
-·       Practice and train weekly on early detection, triage, and containment.
-·       Red team your own infrastructure and search for choke points that can be leveraged.
-·       Invest cycles in hardening OS baselines and increasing attacker cost
-·       Deploy deception honeytokens/honey accounts in key systems/data repositories
-·       Test that BCP plan often and under the assumption that all systems are encrypted
+Assume all cybersecurity projects that include buying something are cancelled until summer of next year. Take a full inventory of all of the security tools and platforms that your org has today.
+
+Identify which ATT&CK data sources the current tools can provide.
+
+Identify unused/legacy storage that can be used for stopgap solutions.
+
+Assign each platform to a Security Engineer and have them complete a deep dive investigation on how that deployment can be improved.
+
+Practice and train weekly on early detection, triage, and containment.
+
+Red team your own infrastructure and search for choke points that can be leveraged.
+
+Invest cycles in hardening OS baselines and increasing attacker cost
+
+Deploy deception honeytokens/honey accounts in key systems/data repositories
+
+Test that BCP plan often and under the assumption that all systems are encrypted
 
 ![Image](/assets/img/honeytoken.jfif)
 
