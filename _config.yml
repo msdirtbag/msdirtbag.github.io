@@ -24,6 +24,8 @@ navbar-links:
   Resources:
     - MS Portals: "http://msportals.io/"
     - AZ Policy Advertizer: "https://www.azadvertizer.net/"
+    - CMD.MS: "https://cmd.ms"
+    - Graph Explorer: "https://https://developer.microsoft.com/en-us/graph/graph-explorer"
 
 ################
 # --- Logo --- #
