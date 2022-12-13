@@ -26,6 +26,8 @@ navbar-links:
     - AZ Policy Advertizer: "https://www.azadvertizer.net/"
     - CMD.MS: "https://cmd.ms"
     - Graph Explorer: "https://https://developer.microsoft.com/en-us/graph/graph-explorer"
+    - Graph Permissions: "https://graphpermissions.merill.net/"
+    - Azure Arc Jumpstart: "https://azurearcjumpstart.io/"
 
 ################
 # --- Logo --- #
